@@ -1,4 +1,4 @@
-## typeing-game
+## typing-game
 A typing game that allows user to train their typing speed by eliminating enemies through typing.
 
 ## Project Status
